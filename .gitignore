@@ -1,0 +1,5 @@
+data
+.vscode
+*.csv
+testRF.py
+sorting_images.py
